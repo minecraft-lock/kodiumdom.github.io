@@ -1,0 +1,68 @@
+#html {
+	position: absolute;
+	padding: 10px;
+	margin: 0px;
+	width: 500px;
+	height: 300px;
+	background-color: black;
+	border: 1px solid gray;
+}
+
+#heading-1 {
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	margin-top: -10px;
+	font-family: 'Dongle';
+	font-size: 40px;
+	color: #fff;
+}
+
+.text-1 {
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Dongle';
+	font-size: 30px;
+	color: red;
+}
+
+/* next */
+
+#css {
+	position: absolute;
+	padding: 10px;
+	margin: 0px;
+	width: 500px;
+	height: 330px;
+	background-color: black;
+	border: 1px solid gray;
+	margin-top: 350px;
+}
+
+#heading-2 {
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	margin-top: -10px;
+	font-family: 'Dongle';
+	font-size: 40px;
+	color: #fff;
+}
+
+.text-2 {
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Dongle';
+	font-size: 30px;
+	color: red;
+}
+
+#work {
+	margin-top: 800px;
+}
+
+.object-1 {height: 2px; width: 200px; margin-left: 50px; margin-top: 800px; border: 5px solid black; background-color: black;}
+.text {font-size: 22px; font-family: 'Dongle'; margin-left: 50px}
+.object-2 {height: 2px; width: 200px; margin-left: 50px; margin-top: 0px; border: 5px solid black; background-color: black;}
