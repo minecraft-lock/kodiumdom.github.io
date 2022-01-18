@@ -1,0 +1,46 @@
+body {
+	background-color: #000;
+}
+
+#heading {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	font-size: 100px;
+	font-family: 'Dongle';
+	color: #fff;
+	margin-top: 100px;
+}
+
+#text {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	font-size: 50px;
+	font-family: 'Dongle';
+	color: #fff;
+}
+
+#button {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	font-size: 50px;
+	font-family: 'Dongle';
+	color: #fff;
+	text-decoration: none;
+	animation-name: buttony;
+	animation-duration: 5s;
+}
+
+@keyframes buttony {
+	0%{
+		color: #000;
+	}
+	99%{
+		color: #000;
+	}
+	100%{
+		color: #fff;
+	}
+}
